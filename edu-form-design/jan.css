@@ -1,0 +1,2017 @@
+
+/*TITTLE*/
+
+.h1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:14px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:10px;
+	margin-left:600px;
+	height:150px;
+	width:200px;
+	color:black;
+}
+
+.h2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:20px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:30px;
+	margin-left:480px;
+	height:150px;
+	width:400px;
+	color:black;
+
+}
+
+
+.h3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:20px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:55px;
+	margin-left:590px;
+	height:150px;
+	width:400px;
+	color:black;
+	
+}
+
+
+.h4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:20px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:80px;
+	height:150px;
+	width:1327px;
+	color:black;
+    border-color:rgba(0,0,0,8);
+}
+.h5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:13px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:135px;
+	height:150px;
+	width:1220px;
+	color:black;
+	margin-left:210px;
+}
+
+.h6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-2px;
+	height:10px;
+	width:1325px;
+	color:black;
+	margin-left:-2px;
+}
+
+.h7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-2px;
+	height:10px;
+	width:1325px;
+	color:black;
+	margin-left:-2px;
+}
+
+.h8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-2px;
+	height:10px;
+	width:670px;
+	color:black;
+	margin-left:-2px;
+}
+
+.h9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-3px;
+	height:10px;
+	width:660px;
+	color:black;
+	margin-left:661px;
+}
+
+.h10{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:87px;
+	height:10px;
+	width:690px;
+	color:black;
+	margin-left:-2px;
+}
+
+.h11{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Calibri;
+	font-size:18px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:87px;
+	height:10px;
+	width:645px;
+	color:black;
+	margin-left:680px;
+}
+
+ .bbox1{
+    position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:20x;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:170px;
+	height:2055px;
+    width:1327px;
+	border-color:rgba(0,0,0,3);
+    border-style:solid;
+	color:black;
+}
+
+.n1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:2px;
+	color:black;
+}
+
+
+.n2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:2px;
+	color:black;
+}
+
+.n3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:2px;
+	color:black;
+}
+
+.n4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:2px;
+	color:black;
+}
+
+.j1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:2px;
+	color:black;
+}
+
+.j2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:130px;
+	color:black;
+}
+
+.j3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:6px;
+	color:black;
+}
+
+.j4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:6px;
+	color:black;
+}
+
+.j5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:6px;
+	color:black;
+}
+
+.j6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:5px;
+	margin-left:6px;
+	color:black;
+}
+
+.j7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:15px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:150px;
+	color:black;
+}
+
+.j8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:15px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:620px;
+	color:black;
+}
+
+.j9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:15px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:1090px;
+	color:black;
+}
+
+.j10{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:3px;
+	margin-left:-5px;
+	color:black;
+}
+
+.j11{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:3px;
+	margin-left:-5px;
+	color:black;
+}
+
+.j12{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:3px;
+	margin-left:-5px;
+	color:black;
+}
+
+.j13{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:3px;
+	margin-left:-5px;
+	color:black;
+}
+
+.j14{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:13px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:-5px;
+	color:black;
+}
+
+.j15{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:12px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:350px;
+	color:black;
+}
+
+.j16{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:570px;
+	color:black;
+}
+
+.j17{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:750px;
+	color:black;
+}
+
+.j18{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:950px;
+	color:black;
+}
+
+.j19{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-50px;
+	margin-left:1150px;
+	color:black;
+}
+
+.j20{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-10px;
+	margin-left:30px;
+	color:black;
+}
+
+.j21{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-10px;
+	margin-left:300px;
+	color:black;
+}
+
+.j22{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-10px;
+	margin-left:520px;
+	color:black;
+}
+
+.j23{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-10px;
+	margin-left:100px;
+	color:black;
+}
+
+.j24{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	font-size:10px;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-10px;
+	margin-left:450px;
+	color:black;
+}
+
+
+/* FIRST BOX */
+
+.new1{
+	height:50px;
+	width:1298px;
+	margin-left:-2px;
+}
+
+
+.new2{
+	height:50px;
+	margin-top:-69px;
+	width:351px;
+	margin-left:945px;
+}
+
+
+
+
+.m1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:160px;
+	color:black;
+	height:30px;
+	width:398px;
+}
+
+.m2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:100px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:110px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:120px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:130px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:170px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:180px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:190px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:200px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m10{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:210px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m11{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:220px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+
+.m12{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:230px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.m13{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:260px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+
+
+/* SECOND BOX */
+
+.new3{
+     height:140px;
+	width:1298px;
+	margin-top:-1px;
+	margin-left:-2px;
+}
+
+
+.mn1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:200px;
+	color:black;
+}
+
+.mn2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:50px;
+	margin-left:200px;
+	color:black;
+}
+
+.mn3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:70px;
+	margin-left:200px;
+	color:black;
+}
+
+.mn4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:90px;
+	margin-left:200px;
+	color:black;
+}
+
+.mn5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:540px;
+	color:black;
+}
+
+.mn6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:50px;
+	margin-left:540px;
+	color:black;
+}
+
+.mn7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:70px;
+	margin-left:540px;
+	color:black;
+}
+
+.mn8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:90px;
+	margin-left:540px;
+	color:black;
+}
+
+.mn9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:14px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:940px;
+	color:black;
+}
+.mn-1{
+	height:90px;
+	width:280px;
+}
+
+/* THIRD BOX*/
+
+.box1{
+	border-color:rgba(0,0,0,3);
+    border-style:solid;
+	color:black;
+	height:30px;
+	width:1317px;
+	text-align:center;
+	padding-top:10px;
+	margin-top:-3px;
+	margin-left:-3px;
+}
+
+.box2{
+	border-color:rgba(0,0,0,3);
+    border-style:solid;
+	color:black;
+	height:30px;
+	width:1317px;
+	text-align:center;
+	padding-top:306px;
+	margin-top:-3px;
+	margin-left:-3px;
+}
+
+.box3{
+	border-color:rgba(0,0,0,3);
+    border-style:solid;
+	color:black;
+	height:30px;
+	width:1317px;
+	text-align:center;
+	padding-top:10px;
+	margin-top:150px;
+	margin-left:-3px;
+}
+
+/*FOURTH BOX*/
+
+.new4{
+     height:100px;
+	width:1298px;
+	margin-top:-1px;
+	margin-left:-2px;
+}
+
+.nf1{
+	margin-top:1px;
+	margin-left:223px;
+}
+
+.nf2{
+	margin-top:-19px;
+	margin-left:533px;
+}
+
+.nf3{
+	margin-top:-19px;
+	margin-left:820px;
+}
+
+.nf4{
+	margin-top:-19px;
+	margin-left:1238px;
+}
+
+.nm1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:160px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.nm2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:470px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.nm3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:770px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.nm4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:1070px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.na1{
+	margin-top:1px;
+	margin-left:223px;
+}
+
+.na2{
+	margin-top:-19px;
+	margin-left:545px;
+}
+
+.na3{
+	margin-top:-19px;
+	margin-left:850px;
+}
+
+.na4{
+	margin-top:-19px;
+	margin-left:1184px;
+}
+
+.p1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:243px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.p2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:530px;
+	color:black;
+	height:30px;
+	width:215px;
+}
+
+.p3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:800px;
+	color:black;
+	height:30px;
+	width:220px;
+}
+
+.p4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:19px;
+	margin-left:1090px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.etchos {
+	margin-top:20px;
+}
+
+/* SIX BOX*/
+
+.new5{
+	height:50px;
+	width:783px;
+	margin-left:253px;
+}
+
+
+.new6{
+	height:50.5px;
+	margin-top:-70px;
+	width:230px;
+	margin-left:-2px;
+}
+
+.new7{
+	height:50.5px;
+	margin-top:-70px;
+	width:230px;
+	margin-left:1062px;
+}
+
+.new8{
+	height:70.5px;
+	margin-top:-1px;
+	width:230px;
+	margin-left:-2px;
+}
+
+.new9{
+	height:70.5px;
+	margin-top:-1px;
+	width:230px;
+	margin-left:-2px;
+}
+
+.new10{
+	height:70.5px;
+	margin-top:-1px;
+	width:260px;
+	margin-left:-2px;
+}
+
+.new11{
+	height:70.5px;
+	margin-top:-3px;
+	width:356px;
+	margin-left:-2px;
+}
+
+.new12{
+	height:70.5px;
+	margin-top:-90px;
+	width:100px;
+	margin-left:884px;
+}
+
+.new13{
+	height:70.5px;
+	margin-top:-90px;
+	width:100px;
+	margin-left:884px;
+}
+
+.new14{
+	height:70.5px;
+	margin-top:-3px;
+	width:1295px;
+	margin-left:-2px;
+}
+
+.new15{
+	height:70.5px;
+	margin-top:-1px;
+	width:200px;
+	margin-left:-2px;
+}
+
+.new16{
+	height:70.5px;
+	margin-top:-90px;
+	width:250px;
+	margin-left:225px;
+}
+
+.new17{
+	height:70.5px;
+	margin-top:-90px;
+	width:250px;
+	margin-left:500px;
+}
+
+.new18{
+	height:70.5px;
+	margin-top:-90px;
+	width:517px;
+	margin-left:776px;
+}
+
+.new19{
+	height:70.5px;
+	margin-top:-1px;
+	width:250px;
+	margin-left:-1px;
+}
+
+.new20{
+	height:70.5px;
+	margin-top:-90px;
+	width:250px;
+	margin-left:275px;
+}
+
+.new21{
+	height:70.5px;
+	margin-top:-90px;
+	width:250px;
+	margin-left:550px;
+}
+
+.new22{
+	height:70.5px;
+	margin-top:-90px;
+	width:469px;
+	margin-left:825px;
+}
+
+.a2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:40px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:50px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a4{
+    position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:90px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:100px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:140px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:150px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:160px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.a9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:170px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.q1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:30px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.q2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:40px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.q3{
+    position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:50px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.q4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:60px;
+	color:black;
+	height:30px;
+	width:11px;
+}
+
+.q5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:20px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:40px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q7{
+    position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:60px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q8{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:80px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q9{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:100px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q10{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:120px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q11{
+    position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+    margin-left:140px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q12{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:160px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q13{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:180px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q14{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:25px;
+	color:black;
+	height:30px;
+	width:210px;
+}
+
+.q15{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:25px;
+	color:black;
+	height:30px;
+	width:210px;
+}
+
+.q16{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:25px;
+	color:black;
+	height:30px;
+	width:480px;
+}
+
+.q17{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-90px;
+	margin-left:100px;
+	color:black;
+	height:30px;
+	width:210px;
+}
+
+.q18{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-90px;
+	margin-left:550px;
+	color:black;
+	height:30px;
+	width:210px;
+}
+
+.q19{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-90px;
+	margin-left:1000px;
+	color:black;
+	height:30px;
+	width:210px;
+}
+
+.q20{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:25px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q21{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:26px;
+	margin-left:45px;
+	color:black;
+	height:31px;
+	width:15px;
+}
+
+.q22{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:65px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q23{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:85px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q24{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:105px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q25{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:125px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q26{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:145px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q27{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:165px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q28{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:185px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q29{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:205px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q30{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:225px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q31{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:27px;
+	margin-left:30px;
+	color:black;
+	height:30px;
+	width:400px;
+}
+
+.q32{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:-5px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q33{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:15px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q34{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:35px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q35{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:55px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q36{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:75px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q37{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:95px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q38{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:115px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q39{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:135px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q40{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:215px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q41{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:155px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q42{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:175px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q43{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:195px;
+	color:black;
+	height:30px;
+	width:15px;
+}
+
+.q44{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:555px;
+	color:black;
+	height:30px;
+	width:100px;
+}
+
+.q45{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:735px;
+	color:black;
+	height:30px;
+	width:100px;
+}
+
+.q46{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:940px;
+	color:black;
+	height:30px;
+	width:100px;
+}
+
+.q47{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:1120px;
+	color:black;
+	height:30px;
+	width:100px;
+}
+
+.q48{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:350px;
+	color:black;
+	height:30px;
+	width:110px;
+}
+
+.q49{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:10px;
+	color:black;
+	height:30px;
+	width:600px;
+}
+
+.q50{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-30px;
+	margin-left:20px;
+	color:black;
+	height:30px;
+	width:600px;
+}
+
+.q51{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-40px;
+	margin-left:30px;
+	color:black;
+	height:20px;
+	width:150px;
+}
+
+.q52{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-40px;
+	margin-left:280px;
+	color:black;
+	height:20px;
+	width:100px;
+}
+
+.q53{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-40px;
+	margin-left:490px;
+	color:black;
+	height:20px;
+	width:100px;
+}
+
+.q54{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-40px;
+	margin-left:100px;
+	color:black;
+	height:20px;
+	width:150px;
+}
+
+.q55{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:-40px;
+	margin-left:430px;
+	color:black;
+	height:20px;
+	width:100px;
+}
+
+.nb1{
+	margin-top:1px;
+	margin-left:140px;
+	font-size:12px;
+}
+
+.nb2{
+	margin-top:-19px;
+	margin-left:370px;
+	font-size:12px;
+}
+
+.nb3{
+	margin-top:-19px;
+	margin-left:560px;
+	font-size:12px;
+}
+
+.nj1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:10px;
+	margin-left:100px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.nj2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:13px;
+	margin-left:320px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.nj3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:2px;
+	margin-left:540px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.mk1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:12px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:50px;
+	color:black;
+}
+
+.mk2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:12px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:130px;
+	color:black;
+}
+
+.mk3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:15px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:200px;
+	color:black;
+}
+
+.mk4{
+    position: absolute;
+	box-sizing:border-box; 
+	font-size:15px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:400px;
+	color:black;
+}
+
+.mk5{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:15px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:600px;
+	color:black;
+}
+
+.mk6{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:15px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:800px;
+	color:black;
+}
+
+.mk7{
+     position: absolute;
+	box-sizing:border-box; 
+	font-size:15px;
+	font-family:Century Gothic;
+	margin-top:30px;
+	margin-left:1100px;
+	color:black;
+}
+
+.ab1{
+	margin-top:1px;
+	margin-left:25px;
+	font-size:12px;
+}
+
+.ab2{
+	margin-top:-15px;
+	margin-left:400px;
+	font-size:12px;
+}
+
+.ab3{
+	margin-top:-15px;
+	margin-left:730px;
+	font-size:12px;
+	width:130px;
+}
+
+.ac1{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:10px;
+	margin-left:15px;
+	color:black;
+	height:30px;
+	width:215px;
+}
+
+.ac2{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:10px;
+	margin-left:350px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.ac3{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:10px;
+	margin-left:650px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
+.ac4{
+     position: absolute;
+	box-sizing:border-box; 
+	font-family:Century Gothic;
+	text-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top:25px;
+	margin-left:150px;
+	color:black;
+	height:30px;
+	width:208px;
+}
+
